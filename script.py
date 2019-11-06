@@ -1,1 +1,3 @@
-'''empty file'''
+'''sting file'''
+
+print('Hello world!')
